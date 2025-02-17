@@ -43,3 +43,4 @@ t = int(input())
 for _ in range(t):
     p = input().strip()  # Đọc biểu thức đầu vào
     print(solve_expression(p, 1))  # Gọi hàm giải biểu thức với hệ số dấu ban đầu là 1
+44
